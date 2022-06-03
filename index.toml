@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/creeper-multidrop.pw.toml"
+hash = "84908e1366194aed185c7f627c606bd9a11477b0547c1fb46d406e11ff71bb9c"
+metafile = true
+
+[[files]]
+file = "mods/rainbethunder.pw.toml"
+hash = "11012b4e01358fc1e449adb6bad6c01dfda6df96c4f6fe14e7b24675c7e4ccff"
+metafile = true
+
+[[files]]
+file = "mods/somemusicdiscs.pw.toml"
+hash = "83655a765eb17c07fe4c6046cbc2de4eec232507b4f11682f210c71a7a7f6459"
+metafile = true
