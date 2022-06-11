@@ -1,14 +1,13 @@
 name = "Some Music Discs"
-filename = "SomeMusicDiscs-1.1.1.jar"
+filename = "SomeMusicDiscs-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g8kNxIw4/versions/1.1.1/SomeMusicDiscs-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/g8kNxIw4/versions/1.1.2/SomeMusicDiscs-1.1.2.jar"
 hash-format = "sha1"
-hash = "565aeb376f2e8fcdc02c28345dd4fbdc70849047"
-mode = ""
+hash = "db7f07ef29a458432672df4c0852afa870465e06"
 
 [update]
 [update.modrinth]
 mod-id = "g8kNxIw4"
-version = "PjTJnC2u"
+version = "MQS6GpDz"
