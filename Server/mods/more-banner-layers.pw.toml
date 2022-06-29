@@ -1,0 +1,13 @@
+name = "More banner layers"
+filename = "morebannerlayers-1.0.0-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RVKxO0fD/versions/1.0.0-1.18.x/morebannerlayers-1.0.0-1.18.x.jar"
+hash-format = "sha1"
+hash = "b47c881481a7df426061c262318e9110a8bb9c0c"
+
+[update]
+[update.modrinth]
+mod-id = "RVKxO0fD"
+version = "l1YFYhQR"

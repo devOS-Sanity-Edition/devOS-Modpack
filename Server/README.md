@@ -1,6 +1,6 @@
-# devOS-Modpack
+# devOS-Modpack-Server
 
-The modpack of all the mods by the devOS community
+The modpack of all the mods by the devOS community for the server side side
 
 This modpack is in the format of packwiz
 
@@ -11,11 +11,11 @@ Modlist:
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502
 | [Architectury](https://modrinth.com/mod/architectury-api) | shedaniel, MaxNeedsSnacks, Juuxel
 | [Aurora's Decorations](https://github.com/LambdAurora/AurorasDecorations) | LambdAurora, Oliver-makes-code, LemmaEOF, binomial, haykam821, Siuolthepic
-| [Auth Me](https://modrinth.com/mod/auth-me) | axieum
 | [BadStdOut](https://modrinth.com/mod/badstdout) | Szum123321
 | [Bed Go Boom](https://modrinth.com/mod/bedgoboom) | asoji, devOS-Nautical
 | [Bing Bing Wahoo](https://github.com/Ignoramuses/bing-bing-wahoo) | TropheusJ, InsaneASockJr
 | [Biome Makeover](https://modrinth.com/mod/biome-makeover) | Lemon
+| [Blockbot Discord]() |
 | [Botania](https://modrinth.com/mod/botania) | williewillus
 | [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | Parker8283
 | [The Box Trot](https://modrinth.com/mod/the-box-trot) | Cammie
@@ -31,10 +31,9 @@ Modlist:
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Jaredlll08
 | [CobbleGen](https://modrinth.com/mod/cobblegen) | null2264
 | [Consistency Plus](https://modrinth.com/mod/consistencyplus) | Siuolplex, emmaffle, IMS212, Cart3r1234, TropheusJ
-| [Continuity](https://modrinth.com/mod/continuity) | peppercode1
-| [Controlling For Fabric](https://www.curseforge.com/minecraft/mc-mods/controlling) | Jaredlll08
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | Apace
 | [Create](https://modrinth.com/mod/create-fabric) | tropheusj, alphamode, peppercode1
+| [Creeper Multidrop]() |
 | [Dark Enchanting](https://modrinth.com/mod/dark-enchanting) | frqnny
 | [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) | stohun, lilypuree
 | [Ears](https://modrinth.com/mod/ears) | unascribed
@@ -54,8 +53,6 @@ Modlist:
 | [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting) | petrak_at, falkory220, wiresegal
 | Hip Hoppers |
 | [Incorporeal 3](https://modrinth.com/mod/incorporeal-3) | quat
-| [Indium](https://modrinth.com/mod/indium) | comp500
-| [Iris](https://modrinth.com/mod/iris) | coderbot, IMS212
 | [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Snownee_, MalayP
 | [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | techbrew, Mysticdrew
 | [Kibe](https://modrinth.com/mod/kibe) | D4rkness_King
@@ -68,7 +65,6 @@ Modlist:
 | [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) | sketch_macaw, PeachyMacaw
 | [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) | sketch_macaw, PeachyMacaw
 | [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) | sketch_macaw, PeachyMacaw
-| [Main Menu Changer](https://modrinth.com/mod/mainmenuchanger) | Stereo528
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | masady
 | [memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | fxmorin
 | [MidnightLib](https://modrinth.com/mod/midnightlib) | Motschen
@@ -77,7 +73,6 @@ Modlist:
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Prospector, modmuss50, NeusFear, jackassmc
 | [More Banner Layers](https://modrinth.com/mod/more-banner-layers) | MisionThi
 | [NoExpensive](https://modrinth.com/mod/noexpensive) | Enaium
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Ennui
 | [Paradise Lost](https://modrinth.com/mod/paradise-lost) | kalucky0, 24Chrome, CDAGaming, Jack-Papel, Dragonoidzero
 | [Patchoul](https://modrinth.com/mod/patchouli) | williewillus
 | [PAUCAL](https://modrinth.com/mod/paucal) | gamma-delta
@@ -91,6 +86,8 @@ Modlist:
 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric) | TheIllusiveC4
 | [Portal Cubed](https://modrinth.com/mod/portal-cubed) | Fusion-Flux
 | [Quilted Fabric API](https://modrinth.com/mod/qsl) | TheGlitch76, LambdAurora, emmaffle, Ennui
+| [RainBeThunder]() |
+| [REI]() |
 | [Sandwichable](https://modrinth.com/mod/sandwichable) | FoundationGames
 | [Show Me What You Got](https://modrinth.com/mod/show-me-what-you-got) | Apace
 | [SilkSpawners](https://modrinth.com/mod/silk-spawners) | LordDeatHunter
@@ -104,5 +101,6 @@ Modlist:
 | [Transparent Cosmetics](https://modrinth.com/mod/transparent-cosmetics) | gaycookie
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Benimatic, Killer_Demon, mcvinnyq, GoesBySully, Drullkus, Tamaized, Squiggly_Androsa, GizmoTheMoonPig, jodlodi, MrCompost, williewillus, AtomicBlom
+| [Watson]() |
 | [Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter
 | [You're in Grave Danger](https://modrinth.com/mod/yigd) | b1n-ry

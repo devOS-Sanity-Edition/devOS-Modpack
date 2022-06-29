@@ -1,0 +1,13 @@
+name = "Macaw's Doors"
+filename = "mcw-doors-1.0.6fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a46ada98fc7e3240404a71328fcb9251e42b6ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3740800
+project-id = 378646
