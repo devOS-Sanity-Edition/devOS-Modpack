@@ -1,0 +1,13 @@
+name = "st'ructure tools"
+filename = "structure-tools-1.0.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uD5WhhmK/versions/1.0.22/structure-tools-1.0.22.jar"
+hash-format = "sha1"
+hash = "3ae828251c6158668ebda7be9c394b1b406c1424"
+
+[update]
+[update.modrinth]
+mod-id = "uD5WhhmK"
+version = "Steux2ks"

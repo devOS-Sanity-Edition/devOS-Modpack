@@ -1,13 +1,13 @@
-name = "Charcoal+"
-filename = "charcoal-plus-1.18.1-1.1.1.jar"
+name = "Charcoal+ [Fabric]"
+filename = "charcoal-plus-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RQtZHiX9/versions/1.18.1-1.1.1/charcoal-plus-1.18.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "37d678abc08844d8ee20f352643195e159e4d873"
+hash = "53a9fd06e5983e9d83ef61548fd41c4fb92a8c6f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "RQtZHiX9"
-version = "PztBPqEQ"
+[update.curseforge]
+file-id = 3687485
+project-id = 563525
