@@ -1,0 +1,13 @@
+name = "Charcoal+"
+filename = "charcoal-plus-1.18.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RQtZHiX9/versions/1.18.1-1.1.1/charcoal-plus-1.18.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "37d678abc08844d8ee20f352643195e159e4d873"
+
+[update]
+[update.modrinth]
+mod-id = "RQtZHiX9"
+version = "PztBPqEQ"

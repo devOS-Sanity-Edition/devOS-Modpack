@@ -1,8 +1,162 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "dec8105e83b778f3cbcfb1bd5cb337dd090a709f06dee5341d20c1d7d3435227"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "62d2ce122f6e9d53cc8a4a902a14a12f358f02b7041667f1744a4ec72a55ae7e"
+metafile = true
+
+[[files]]
+file = "mods/badstdout.pw.toml"
+hash = "893c68376d94e2385584cc798e205eecf8de15d79e352bdebc5bc487a2200c19"
+metafile = true
+
+[[files]]
+file = "mods/bedgoboom.pw.toml"
+hash = "6e9e0877a96d501e4a37e737fdcb6b4601167b4dbc77427e6a2b8ffca09554b9"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "ba0dc194594314b406d94f38e7a15f36ef0b2d242489f869121cfd0816af9ec9"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
+metafile = true
+
+[[files]]
+file = "mods/campanion.pw.toml"
+hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "53e2757af354d2f5df6d881fabcd5d0bb0bb5d13557f97429f119d2ad0eb53f4"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+metafile = true
+
+[[files]]
+file = "mods/charcoalplus.pw.toml"
+hash = "409c13c2eb8af4e04017b6c77e4fed9023a745995ba5777e357d8b26a4501f00"
+metafile = true
+
+[[files]]
+file = "mods/chex-mix-mod.pw.toml"
+hash = "87f5152068fdd598169517e3391f681e08324bd4126318e18bd350444f44c4f9"
+metafile = true
+
+[[files]]
+file = "mods/chromatic-currents.pw.toml"
+hash = "877f640c7f37b70b56bbc8e6f35b757042dce1074e4a32b26afcc23eee01197e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+metafile = true
+
+[[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "149473f93e036a69da2eee5c814bb85b03025ae6b642a94102c0f292413c89ce"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "9f6e91210d4f90007541000ff482119f9b228d318e0d2eb0234cfcb38b53a81f"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+metafile = true
+
+[[files]]
 file = "mods/creeper-multidrop.pw.toml"
 hash = "84908e1366194aed185c7f627c606bd9a11477b0547c1fb46d406e11ff71bb9c"
+metafile = true
+
+[[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/ellemes-container-library.pw.toml"
+hash = "23959f2ac68a964b5c7559be35995bfa2a179c2b74516bc8aa7a06e8ad3956fa"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "c843017f46fc62f9b60e55f7bc26380d0287a1a439c6a9cb80c10c26d144d2b2"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "13b421e541e0cfad5742c077c6be8f09b425b1429e562523a8420659230e901d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/flagbric.pw.toml"
+hash = "864221fb339d0cb258ede39fd2895a2cfdc3f0cdf8da64cb05b43859791dcb45"
+metafile = true
+
+[[files]]
+file = "mods/noexpensive.pw.toml"
+hash = "d9c7c2b33ad5153ff2de898ef1553791623cee402041599f8a30ccfc71a6107b"
 metafile = true
 
 [[files]]
@@ -12,5 +166,15 @@ metafile = true
 
 [[files]]
 file = "mods/somemusicdiscs.pw.toml"
-hash = "0ee51dbae206cddd79619cc641a01a6ab2cccc6b403eb0d727d7bf089b5ad751"
+hash = "7a2a95adc693438be4823329bd00813a7552b6f0227df2d59a152de84bf2ed95"
+metafile = true
+
+[[files]]
+file = "mods/the-box-trot.pw.toml"
+hash = "e2e34636719e8bbc49fceb369e481a4f65d81613296d99f075b44888006d9ad8"
+metafile = true
+
+[[files]]
+file = "mods/wahoo.pw.toml"
+hash = "ad3f44e8cd8add554867f3d9a0d69a984515377d8bc399b3d933005f58e5d636"
 metafile = true
