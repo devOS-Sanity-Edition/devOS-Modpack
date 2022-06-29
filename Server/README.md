@@ -15,7 +15,7 @@ Modlist:
 | [Bed Go Boom](https://modrinth.com/mod/bedgoboom) | asoji, devOS-Nautical
 | [Bing Bing Wahoo](https://github.com/Ignoramuses/bing-bing-wahoo) | TropheusJ, InsaneASockJr
 | [Biome Makeover](https://modrinth.com/mod/biome-makeover) | Lemon
-| [Blockbot Discord]() |
+| Blockbot Discord |
 | [Botania](https://modrinth.com/mod/botania) | williewillus
 | [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | Parker8283
 | [The Box Trot](https://modrinth.com/mod/the-box-trot) | Cammie
@@ -33,7 +33,7 @@ Modlist:
 | [Consistency Plus](https://modrinth.com/mod/consistencyplus) | Siuolplex, emmaffle, IMS212, Cart3r1234, TropheusJ
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | Apace
 | [Create](https://modrinth.com/mod/create-fabric) | tropheusj, alphamode, peppercode1
-| [Creeper Multidrop]() |
+| [Creeper Multidrop](https://modrinth.com/mod/creeper-multidrop) | IMS212, asoji, devOS-Nautical
 | [Dark Enchanting](https://modrinth.com/mod/dark-enchanting) | frqnny
 | [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) | stohun, lilypuree
 | [Ears](https://modrinth.com/mod/ears) | unascribed
@@ -86,8 +86,8 @@ Modlist:
 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric) | TheIllusiveC4
 | [Portal Cubed](https://modrinth.com/mod/portal-cubed) | Fusion-Flux
 | [Quilted Fabric API](https://modrinth.com/mod/qsl) | TheGlitch76, LambdAurora, emmaffle, Ennui
-| [RainBeThunder]() |
-| [REI]() |
+| [RainBeThunder](https://modrinth.com/mod/rainbethunder) | IMS212, asoji, devOS-Nautical
+| [REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | shedaniel, Shnupbups, HeyAmAK9
 | [Sandwichable](https://modrinth.com/mod/sandwichable) | FoundationGames
 | [Show Me What You Got](https://modrinth.com/mod/show-me-what-you-got) | Apace
 | [SilkSpawners](https://modrinth.com/mod/silk-spawners) | LordDeatHunter
@@ -101,6 +101,6 @@ Modlist:
 | [Transparent Cosmetics](https://modrinth.com/mod/transparent-cosmetics) | gaycookie
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Benimatic, Killer_Demon, mcvinnyq, GoesBySully, Drullkus, Tamaized, Squiggly_Androsa, GizmoTheMoonPig, jodlodi, MrCompost, williewillus, AtomicBlom
-| [Watson]() |
+| [Watson](https://modrinth.com/mod/watson) | vacla
 | [Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter
 | [You're in Grave Danger](https://modrinth.com/mod/yigd) | b1n-ry

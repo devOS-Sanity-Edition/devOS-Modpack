@@ -119,6 +119,11 @@ hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
 
 [[files]]
+file = "mods/creeper-multidrop.pw.toml"
+hash = "709be385794845b1514cca331cb4e5467f5914df6e005375af4ff55c25b3ef77"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
 metafile = true
