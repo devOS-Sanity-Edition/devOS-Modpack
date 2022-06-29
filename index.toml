@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "dec8105e83b778f3cbcfb1bd5cb337dd090a709f06dee5341d20c1d7d3435227"
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
@@ -18,6 +14,10 @@ metafile = true
 file = "mods/architectury-api.pw.toml"
 hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
 metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations-1.0.0+1.18.jar"
+hash = "4f9b377ff14e40a7f6adf32d06b7206d99f8546cbc7c9a3491028994cdc281bf"
 
 [[files]]
 file = "mods/auth-me.pw.toml"
@@ -45,8 +45,18 @@ hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "648585f694ff4b0d58e6eb7cdd957bfcec2f8d192d2981d81fdcbc531ab767bb"
+metafile = true
+
+[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
+metafile = true
+
+[[files]]
+file = "mods/capybara-fabric.pw.toml"
+hash = "72c74592520c29260acfd72bbc99f6e2016b62fd6645c6684a6223a5a169a5e3"
 metafile = true
 
 [[files]]
@@ -76,7 +86,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "88b53b7eb72f43fe09efae1dfef0e51d92ac79355ff4a1dd7298e513cfcd8672"
 metafile = true
 
 [[files]]
@@ -115,6 +130,11 @@ hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "5221c54e7919759051085b8312469f686f2c09a86d6446e92d34ccf029e5c606"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
@@ -123,6 +143,15 @@ metafile = true
 file = "mods/ellemes-container-library.pw.toml"
 hash = "23959f2ac68a964b5c7559be35995bfa2a179c2b74516bc8aa7a06e8ad3956fa"
 metafile = true
+
+[[files]]
+file = "mods/elytra-trinket-fabric.pw.toml"
+hash = "193afa0b2357a94bef4483204eb18f61561e6f6976aadf4737d522517b7c0bc6"
+metafile = true
+
+[[files]]
+file = "mods/emi-converter.jar"
+hash = "23b48dfc34859489824c159090653239757672f8e1d596d4a7c425f4598c93fa"
 
 [[files]]
 file = "mods/emi.pw.toml"
@@ -137,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/extra-generators.pw.toml"
 hash = "13b421e541e0cfad5742c077c6be8f09b425b1429e562523a8420659230e901d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
 metafile = true
 
 [[files]]
@@ -172,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/the-box-trot.pw.toml"
 hash = "e2e34636719e8bbc49fceb369e481a4f65d81613296d99f075b44888006d9ad8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
