@@ -1,13 +1,13 @@
 name = "Forgero - [Fabric]"
-filename = "forgero-0.9.3-BETA-1.18.2.jar"
+filename = "forgero-1.18.2-BETA-0.8.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b0d44656c3e27621302bcf3dc4093ad6e70d0737"
+hash = "023aa22ca90d69c11cb7ebdb6c7c911ea13e9bd6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3848509
+file-id = 3825732
 project-id = 581435
