@@ -12,7 +12,7 @@ Modlist:
 | [Architectury](https://modrinth.com/mod/architectury-api) | shedaniel, MaxNeedsSnacks, Juuxel
 | [Aurora's Decorations](https://github.com/LambdAurora/AurorasDecorations) | LambdAurora, Oliver-makes-code, LemmaEOF, binomial, haykam821, Siuolthepic
 | [BadStdOut](https://modrinth.com/mod/badstdout) | Szum123321
-| [Bed Go Boom](https://modrinth.com/mod/bedgoboom) | asoji, devOS-Nautical
+| [Bed Go Boom](https://modrinth.com/mod/bedgoboom) | asoji, devOS-Nautical, IMS212
 | [Bing Bing Wahoo](https://github.com/Ignoramuses/bing-bing-wahoo) | TropheusJ, InsaneASockJr
 | [Biome Makeover](https://modrinth.com/mod/biome-makeover) | Lemon
 | [Blockbot Discord](https://github.com/QuiltServerTools/BlockBot) | Genau6502, Tom_The_Geek, PotatoPresident, CalXee
