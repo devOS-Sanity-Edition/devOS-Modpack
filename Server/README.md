@@ -15,7 +15,7 @@ Modlist:
 | [Bed Go Boom](https://modrinth.com/mod/bedgoboom) | asoji, devOS-Nautical
 | [Bing Bing Wahoo](https://github.com/Ignoramuses/bing-bing-wahoo) | TropheusJ, InsaneASockJr
 | [Biome Makeover](https://modrinth.com/mod/biome-makeover) | Lemon
-| Blockbot Discord |
+| [Blockbot Discord](https://github.com/QuiltServerTools/BlockBot) | Genau6502, Tom_The_Geek, PotatoPresident, CalXee
 | [Botania](https://modrinth.com/mod/botania) | williewillus
 | [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | Parker8283
 | [The Box Trot](https://modrinth.com/mod/the-box-trot) | Cammie
@@ -51,7 +51,7 @@ Modlist:
 | [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib) | ThanosGecko, AzureDoomC, dertoaster_98, McHorseYT, SleepX10
 | [Glow Banners](https://modrinth.com/mod/glow-banners) | UltrusBot
 | [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting) | petrak_at, falkory220, wiresegal
-| Hip Hoppers |
+| Hip Hoppers | Fusion-Flux
 | [Incorporeal 3](https://modrinth.com/mod/incorporeal-3) | quat
 | [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Snownee_, MalayP
 | [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | techbrew, Mysticdrew

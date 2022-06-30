@@ -52,7 +52,7 @@ Modlist:
 | [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib) | ThanosGecko, AzureDoomC, dertoaster_98, McHorseYT, SleepX10
 | [Glow Banners](https://modrinth.com/mod/glow-banners) | UltrusBot
 | [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting) | petrak_at, falkory220, wiresegal
-| Hip Hoppers |
+| Hip Hoppers | Fusion-Flux
 | [Incorporeal 3](https://modrinth.com/mod/incorporeal-3) | quat
 | [Indium](https://modrinth.com/mod/indium) | comp500
 | [Iris](https://modrinth.com/mod/iris) | coderbot, IMS212
