@@ -1,12 +1,12 @@
 name = "devOS-Modpack-Server"
 author = "devOS-Nautical"
-version = "1.0.0"
+version = "h.h.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d47e634cebf8226c5afe97ffc4c11e30fe6ce53defdfe049cb2ccd19e68463ae"
+hash = "17b9d14d2e1559117089e682a601fab656107a82d08f5854a3ead80f0d0e987f"
 
 [versions]
 minecraft = "1.18.2"

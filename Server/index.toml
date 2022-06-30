@@ -39,6 +39,10 @@ hash = "0a915d73fdcc484093b5d7f88b21c2426c7065879b6a1715ca738f112c62ce5b"
 metafile = true
 
 [[files]]
+file = "mods/blockbot-discord-2.0.0-beta.jar"
+hash = "21bcc80d563eaf84ec830796d8b63e0ee3626ceb8b67ac3cc33096833ae88133"
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
@@ -131,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "5221c54e7919759051085b8312469f686f2c09a86d6446e92d34ccf029e5c606"
-metafile = true
-
-[[files]]
-file = "mods/decorative.pw.toml"
-hash = "0165e5a2e118b9ef9898e768fb824adcce31775219a270bebcaba770277c9b58"
 metafile = true
 
 [[files]]
@@ -351,6 +350,10 @@ file = "mods/pickyourpoison-1.0.8.jar"
 hash = "cbb225ff5d51190a65b6c09e10c82adfd4260fdde2a3bf3fdb81bca76ca8018d"
 
 [[files]]
+file = "mods/player-pronouns-1.4.0+1.18.jar"
+hash = "aedd332f79b65b195c2b5232cd4f9a6250abf7d0eacaeacd334808650449df16"
+
+[[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
 metafile = true
@@ -438,11 +441,6 @@ metafile = true
 [[files]]
 file = "mods/transparent-cosmetics.pw.toml"
 hash = "af9698c6f2f6937a34519110b98a0f083701bd81288b9044aafaf84c785fbc47"
-metafile = true
-
-[[files]]
-file = "mods/transparent.pw.toml"
-hash = "394b9a78bc3f6c0c42ed733ce2949ad9ae10b0d47defa7f7d8296896bbc97e0e"
 metafile = true
 
 [[files]]
