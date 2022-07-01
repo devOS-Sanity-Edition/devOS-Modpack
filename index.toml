@@ -58,11 +58,6 @@ hash = "648585f694ff4b0d58e6eb7cdd957bfcec2f8d192d2981d81fdcbc531ab767bb"
 metafile = true
 
 [[files]]
-file = "mods/cammies-wearable-backpacks.pw.toml"
-hash = "93e10f8d8a3eaef0cf7a819db44774a49708cf15ea89c7b5f0c2265f48e25a13"
-metafile = true
-
-[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true
@@ -278,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
-metafile = true
-
-[[files]]
-file = "mods/lib.pw.toml"
-hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
 metafile = true
 
 [[files]]
