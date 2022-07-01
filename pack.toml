@@ -1,0 +1,13 @@
+name = "Dev OS Modpack"
+author = "devOS-Nautical"
+version = "h.h.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "388de36d491670b1d6390e66d565b7c539da4da653fb25137f513905c46abe26"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.1-beta.2"

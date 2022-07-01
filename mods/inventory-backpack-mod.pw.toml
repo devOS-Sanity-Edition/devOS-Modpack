@@ -1,0 +1,13 @@
+name = "Inventory Backpack"
+filename = "inventory-backpack-mod-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N1GDhyOr/versions/0.2.4-1.18.x/inventory-backpack-mod-0.2.4.jar"
+hash-format = "sha1"
+hash = "046a3b6eef0045bfb405983f357847698368eb41"
+
+[update]
+[update.modrinth]
+mod-id = "N1GDhyOr"
+version = "jV2d0kjN"

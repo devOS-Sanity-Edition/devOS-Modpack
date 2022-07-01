@@ -1,0 +1,13 @@
+name = "The Twilight Forest"
+filename = "twilightforest-fabric-1.18.2-4.1.238.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c36cc6f6b5508f31c061168462d5ff2272974836"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834932
+project-id = 227639
